@@ -85,7 +85,7 @@ Different types are best suited for different applications. They are usually sel
 | Thermocouple Type | Names of Materials | Useful Application Range | Properties and Applications|
 | -------- | -------- | -------- | -------- |
 | B | Platinum 30%, Rhodium (+), Platinum 6%, Rhodium(-) | 32-3100F, 0-1700C | Limited use below 50C | 
-| C | Tungsten 5%, Rhenium (+), Tungsten 26%, Rhenium (-) | 32-4200F, 0-2300C | Must not be used in presence of oxygen above; Well suited for Vacuum Furnaces at extremely high temperatures. |
+| C | Tungsten 5%, Rhenium (+), Tungsten 26%, Rhenium (-) | 32-4200F, 0-2300C | Must not be used in presence of oxygen above 260 degree C; Well suited for Vacuum Furnaces at extremely high temperatures. |
 | E | Chromel(+), Constantan (-) | -200-1650F, -95-900C | Sensitivity 68&mu;V/degree C, Non magnetic, Most suited for cryogenic use. |  
 | J | Iron (+), Constantan (-) | -58-1650F, -50-900C | Sensitivity 55 &mu;V/degree C, Magnetic properties, Restrict use above 770 degree C. | 
 | K | Chromel (+), Alumel (-) | -328-2300F, -200-1260C | Most common Sensitivity 41 &mu;V/degree C, Inexpensive, Linear, Restricted use above 350 degree C due to magnetic properties of nickel. |
