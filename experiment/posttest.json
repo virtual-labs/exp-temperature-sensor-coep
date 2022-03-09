@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "CJC stands for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Central Junction Compensation",
+        "b": "Cold Joint Compensation",
+        "c": "Central Joint Compensation",
+        "d": "Cold Junction compensation"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Lead wire compensation is necessary for",
+      "answers": {
+        "a": "RTDs",
+        "b": "T/Cs",
+        "c": "Both RTDs and T/Cs",
+        "d": "None of them"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For j type thermocouple materials used are",
+      "answers": {
+        "a": "Iron Constantan",
+        "b": "Cromel Constantan",
+        "c": "Cromel Alumel",
+        "d": "All of these"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Thermowell is used for protection of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Process fluid",
+        "b": "Sensing element",
+        "c": "None of these",
+        "d": "Both a and b"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "--- Type thermocouple is used for cryogenic applications",
+      "answers": {
+        "a": "S",
+        "b": "T",
+        "c": "E",
+        "d": "P"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
