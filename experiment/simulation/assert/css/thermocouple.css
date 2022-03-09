@@ -153,8 +153,8 @@ select{
 }
 
 #noteHeader {
-    border-bottom: 3px solid red;
+   
     color: red;
     font-family: cursive;
-    width: 70px;
+   
 }
