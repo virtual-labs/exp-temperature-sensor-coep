@@ -85,11 +85,11 @@ Different types are best suited for different applications. They are usually sel
 | Thermocouple Type | Names of Materials | Useful Application Range | Properties and Applications|
 | -------- | -------- | -------- | -------- |
 | B | Platinum 30%, Rhodium (+), Platinum 6%, Rhodium(-) | 32-3100F, 0-1700C | Limited use below 50C | 
-| C | Tungsten 5%, Rhenium (+), Tungsten 26%, Rhenium (-) | 32-4200F, 0-2300C | Must not be used in presence of oxygen above 260 degree C; Well suited for Vacuum Furnaces at extremely high temperatures. |
-| E | Chromel(+), Constantan (-) | -200-1650F, -95-900C | Sensitivity 68&mu;V/degree C, Non magnetic, Most suited for cryogenic use. |  
-| J | Iron (+), Constantan (-) | -58-1650F, -50-900C | Sensitivity 55 &mu;V/degree C, Magnetic properties, Restrict use above 770 degree C. | 
-| K | Chromel (+), Alumel (-) | -328-2300F, -200-1260C | Most common Sensitivity 41 &mu;V/degree C, Inexpensive, Linear, Restricted use above 350 degree C due to magnetic properties of nickel. |
+| C | Tungsten 5%, Rhenium (+), Tungsten 26%, Rhenium (-) | 32-4200F, 0-2300C | Must not be used in presence of oxygen above 260 &deg;C; Well suited for Vacuum Furnaces at extremely high temperatures. |
+| E | Chromel(+), Constantan (-) | -200-1650F, -95-900C | Sensitivity 68&mu;V/&deg;C, Non magnetic, Most suited for cryogenic use. |  
+| J | Iron (+), Constantan (-) | -58-1650F, -50-900C | Sensitivity 55 &mu;V/&deg;C, Magnetic properties, Restrict use above 770 &deg;C. | 
+| K | Chromel (+), Alumel (-) | -328-2300F, -200-1260C | Most common Sensitivity 41 &mu;V/&deg;C, Inexpensive, Linear, Restricted use above 350 &deg;C due to magnetic properties of nickel. |
 | R | Platinum 13%,Rhodium(+), Platinum(-) | 160-2640F, 70-1450C | Usually used only for high temperature measurements due to their high cost and low sensitivity. |
 | S | Platinum 10%, Rhodium(+), Platinum(-) | 1800-2640F, 982-1450C | Usually used only for high temperature measurements due to their high cost and low sensitivity. |
-| T | Copper(+), Constantan(-) | -330-660F, -200-350C | Sensitivity 43 &mu;V/degree C, Often used for differential measurement. |
+| T | Copper(+), Constantan(-) | -330-660F, -200-350C | Sensitivity 43 &mu;V/&deg;C, Often used for differential measurement. |
 
