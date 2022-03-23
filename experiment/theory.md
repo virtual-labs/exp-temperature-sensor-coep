@@ -1,4 +1,3 @@
-# Theory
 **Prerequisite**
 
 Before performing the experiments on thermocouples, students must have knowledge of:
