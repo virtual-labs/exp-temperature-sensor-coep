@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "CJC stands for",
+      "answers": {
+        "a": "Central Junction Compensation",
+        "b": "Cold Joint Compensation",
+        "c": "Central Joint Compensation",
+        "d": "Cold Junction compensation"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Lead wire compensation is necessary for",
+      "answers": {
+        "a": "RTDs",
+        "b": "T/Cs",
+        "c": "Both RTDs and T/Cs",
+        "d": "None of them"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For j type thermocouple materials used are",
+      "answers": {
+        "a": "Iron Constantan",
+        "b": "Cromel Constantan",
+        "c": "Cromel Alumel",
+        "d": "All of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermowell is used for protection of",
+      "answers": {
+        "a": "Process fluid",
+        "b": "Sensing element",
+        "c": "None of these",
+        "d": "Both a and b"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "--- Type thermocouple is used for cryogenic applications",
+      "answers": {
+        "a": "S",
+        "b": "T",
+        "c": "E",
+        "d": "P"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

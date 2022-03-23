@@ -1,0 +1,64 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Thermocouple is --------",
+      "answers": {
+        "a": "A sensor",
+        "b": "A transducer",
+        "c": "None of these",
+        "d": "sensor as well as transducer"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The temperature being sensed by a negative temperature coefficient (NTC) type thermister is linearly increasing. Its resistance will",
+      "answers": {
+        "a": "linearly increase with temperature",
+        "b": "exponentially decrease with temperature",
+        "c": "exponentially increase with temperature",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The material used for thermistor construction is",
+      "answers": {
+        "a": "Insulator",
+        "b": "Conductor",
+        "c": "Semiconductor",
+        "d": "Capacitor"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "National Institute of Standards and Technology does not recommend this temperature scale for NIST applications",
+      "answers": {
+        "a": "Celsius",
+        "b": "Rankine",
+        "c": "Fahrenheit"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following represents normal human body temperature?",
+      "answers": {
+        "a": "310 deg k",
+        "b": "373 deg k",
+        "c": "212 deg F",
+        "d": "225 deg F"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
